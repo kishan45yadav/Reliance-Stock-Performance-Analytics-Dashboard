@@ -11,6 +11,7 @@ A data-driven analysis of Reliance Industries using Python for data processing a
 
 
 ![image alt](https://github.com/kishan45yadav/Reliance-Stock-Performance-Analytics-Dashboard/blob/main/Screenshot%20(47).png?raw=true)
+![image alt](https://github.com/kishan45yadav/Reliance-Stock-Performance-Analytics-Dashboard/blob/main/Screenshot%20(65).png?raw=true)
 
 > An end-to-end data analytics project covering historical stock analysis, technical indicator computation, and 30-day price forecasting for **Reliance Industries Limited (NSE: RELIANCE.NS)** — India's largest publicly listed conglomerate.
 
