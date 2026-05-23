@@ -1,13 +1,13 @@
-
-A data-driven analysis of Reliance Industries using Python for data processing and Power BI for interactive visualization and insights.
-
-# 📈 Reliance Industries — Stock Market Analysis & Price Forecasting
-
 ![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=flat&logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?style=flat&logo=jupyter&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![Prophet](https://img.shields.io/badge/Facebook-Prophet-0866FF?style=flat&logo=meta&logoColor=white)
 ![NSE](https://img.shields.io/badge/NSE-RELIANCE.NS-009B77?style=flat)
+
+A data-driven analysis of Reliance Industries using Python for data processing and Power BI for interactive visualization and insights.
+
+# 📈 Reliance Industries — Stock Market Analysis & Price Forecasting
+
 
 
 ![image alt](https://github.com/kishan45yadav/Reliance-Stock-Performance-Analytics-Dashboard/blob/main/Screenshot%20(47).png?raw=true)
